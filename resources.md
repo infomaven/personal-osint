@@ -9,6 +9,8 @@
 ##### Guidelines for removing your data from the internet
     https://docs.google.com/spreadsheets/d/1UY9U2CJ8Rnz0CBrNu2iGV3yoG0nLR8mLINcnz44XESI/edit#gid=1864750866
 
+##### OSINT for researching business
+https://www.varonis.com/blog/best-sources-of-business-data-in-2019/
 
  ##### How to find information on anyone
     https://medium.com/@Peter_UXer/osint-how-to-find-information-on-anyone-5029a3c7fd56
@@ -101,13 +103,15 @@ OSINT Course Demo - SEC487
 ##### Dehashed - see if your password has been compromised
     https://dehashed.com/
 
-### Hunchly research tool
+##### H8Mail - Password Breach Hunting and Email OSINT tool, locally or using premium services. Supports chasing down related email
+    https://github.com/khast3x/h8mail
+    https://www.youtube.com/watch?v=z8G_vBBHtfA
+
+##### Hunchly research tool
     https://hunch.ly/#collapseFour
 
 ##### OSINT Framework - Interactive Tool list
     https://osintframework.com
-
-
 
 ##### PhoneInfoga  - Advanced OSINT tool for phone numbers
     https://github.com/sundowndev/PhoneInfoga
@@ -120,10 +124,11 @@ OSINT Course Demo - SEC487
 ##### Signal encryption tool
     https://signal.org/#page-top
 
-##### Spiderfoot recon tool
-    https://www.spiderfoot.net/
+##### Spiderfoot recon tool - automates searches against a list of several sources, including Shodan
 
+    https://www.spiderfoot.net/
     https://www.youtube.com/watch?time_continue=128&v=dfvqhDUn81s
+    https://null-byte.wonderhowto.com/how-to/use-spiderfoot-for-osint-gathering-0180063/
 
 
 ##### Tineye - reverse image search
