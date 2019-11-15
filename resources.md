@@ -112,9 +112,12 @@ OSINT Course Demo - SEC487
 
 ##### OSINT Framework - Interactive Tool list
     https://osintframework.com
+    https://github.com/lockfale/OSINT-Framework
+
 
 ##### Phone2Email (Martin Vigo)
 https://www.youtube.com/watch?time_continue=128&v=dfvqhDUn81s
+https://github.com/whitef0x0/phone2email
 
 
 ##### PhoneInfoga  - Advanced OSINT tool for phone numbers
@@ -131,6 +134,7 @@ https://www.youtube.com/watch?time_continue=128&v=dfvqhDUn81s
 ##### Spiderfoot recon tool - automates searches against a list of several sources, including Shodan
 
     https://www.spiderfoot.net/
+    https://github.com/smicallef/spiderfoot
     https://www.youtube.com/watch?time_continue=128&v=dfvqhDUn81s
     https://null-byte.wonderhowto.com/how-to/use-spiderfoot-for-osint-gathering-0180063/
 
