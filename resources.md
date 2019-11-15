@@ -97,8 +97,8 @@ OSINT Course Demo - SEC487
 
 
 ## Tools
-##### Data Detox Kit - The Glassroom San Francisco
-    https://theglassroom.org/
+##### Data Detox Kit
+    https://datadetoxkit.org/en/home
 
 ##### Dehashed - see if your password has been compromised
     https://dehashed.com/
@@ -112,6 +112,10 @@ OSINT Course Demo - SEC487
 
 ##### OSINT Framework - Interactive Tool list
     https://osintframework.com
+
+##### Phone2Email (Martin Vigo)
+https://www.youtube.com/watch?time_continue=128&v=dfvqhDUn81s
+
 
 ##### PhoneInfoga  - Advanced OSINT tool for phone numbers
     https://github.com/sundowndev/PhoneInfoga
