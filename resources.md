@@ -3,22 +3,20 @@
 ###### Search for Simone  - A social media investigation
     https://red-goat.com/social-engineering/simone
 
-#### From email to phone number, a new OSINT approach (Martin Vigo)
+##### From email to phone number, a new OSINT approach (Martin Vigo)
     https://www.martinvigo.com/email2phonenumber/
 
 ##### Guidelines for removing your data from the internet
     https://docs.google.com/spreadsheets/d/1UY9U2CJ8Rnz0CBrNu2iGV3yoG0nLR8mLINcnz44XESI/edit#gid=1864750866
 
-##### OSINT for researching business
+#####  Business Research
 https://www.varonis.com/blog/best-sources-of-business-data-in-2019/
 
- ##### How to find information on anyone
+##### How to find information on anyone
     https://medium.com/@Peter_UXer/osint-how-to-find-information-on-anyone-5029a3c7fd56
-
 
 ##### guide to getting started in OSINT
    https://www.randhome.io/blog/2019/01/05/2019-osint-guide/
-
 
 ##### Interviews with convicted Burglers about osint
     https://www.kgw.com/article/news/investigations/we-asked-86-burglars-how-they-broke-into-homes/344213396
@@ -50,10 +48,11 @@ https://www.varonis.com/blog/best-sources-of-business-data-in-2019/
 OSINT Course Demo - SEC487
     https://www.sans.org/ondemand/get-demo/890
 
-
 ##### Michael Bazzel - a master of privacy
     https://inteltechniques.com/blog/?s=workflow
 
+##### Tracelabs.org - Crowdsourced OSINT to find missing persons
+https://www.tracelabs.org/
 
 
 
@@ -107,13 +106,18 @@ OSINT Course Demo - SEC487
     https://github.com/khast3x/h8mail
     https://www.youtube.com/watch?v=z8G_vBBHtfA
 
+#####  HIBP - Check if your email address has ever been in a data breach
+    https://haveibeenpwned.com/
+
 ##### Hunchly research tool
     https://hunch.ly/#collapseFour
 
-##### OSINT Framework - Interactive Tool list
+##### OSINT Framework - Interactive guide to OSINT tools. Use this to do OSINT on yourself.
     https://osintframework.com
     https://github.com/lockfale/OSINT-Framework
 
+##### Password Managers
+ http://digitalfootprintimu.weebly.com/
 
 ##### Phone2Email (Martin Vigo)
 https://www.youtube.com/watch?time_continue=128&v=dfvqhDUn81s
@@ -131,8 +135,7 @@ https://github.com/whitef0x0/phone2email
 ##### Signal encryption tool
     https://signal.org/#page-top
 
-##### Spiderfoot recon tool - automates searches against a list of several sources, including Shodan
-
+##### Spiderfoot recon tool - automates searches of a single term against a several popular websites, sercvices and social media
     https://www.spiderfoot.net/
     https://github.com/smicallef/spiderfoot
     https://www.youtube.com/watch?time_continue=128&v=dfvqhDUn81s
