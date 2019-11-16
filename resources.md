@@ -39,6 +39,9 @@ https://www.varonis.com/blog/best-sources-of-business-data-in-2019/
 ##### Guidelines for removing your data from the internet
     https://docs.google.com/spreadsheets/d/1UY9U2CJ8Rnz0CBrNu2iGV3yoG0nLR8mLINcnz44XESI/edit#gid=1864750866
 
+##### Data Detox Kit
+    https://datadetoxkit.org/en/home
+
 
 
 
@@ -96,9 +99,6 @@ https://www.tracelabs.org/
 
 
 ## Tools
-##### Data Detox Kit
-    https://datadetoxkit.org/en/home
-
 ##### Dehashed - see if your password has been compromised
     https://dehashed.com/
 
@@ -106,7 +106,7 @@ https://www.tracelabs.org/
     https://github.com/khast3x/h8mail
     https://www.youtube.com/watch?v=z8G_vBBHtfA
 
-#####  HIBP - Check if your email address has ever been in a data breach
+#####  Have I Been Pwnd - Check if your email address has ever been in a data breach
     https://haveibeenpwned.com/
 
 ##### Hunchly research tool
